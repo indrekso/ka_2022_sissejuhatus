@@ -1,0 +1,7 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+*.Rmd
+*.R
+data/rsf_press_freedom*.*
