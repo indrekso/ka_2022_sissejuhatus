@@ -1,1 +1,1 @@
-Siin asuvad Kvantitatiivsete meetodite aluskursuse esimese nädala praktikumi ettevalmistavad materjalid. Laadige nad tervikuna alla paremal ülal asuva rohelise nupu *Code* alt, valides *Download ZIP*.
+Siin asuvad Kvantitatiivsete meetodite aluskursuse esimese nädala praktikumi ettevalmistavad materjalid. Laadige nad tervikuna alla paremal ülal asuva rohelise nupu *Code* alt, valides *Download ZIP*. Juhend asub failis `ka_2022_sissejuhatus.html`, vajalik andmefail on kaustas `data`.
